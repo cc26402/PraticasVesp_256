@@ -11,3 +11,5 @@ git commit -m "primeira versão"
 
 criando tags
 git tag -a v0.1.0 -m "Mensagem"
+
+git tag deve ser feito apos o commit para ver se funciona
