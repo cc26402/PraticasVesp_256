@@ -5,3 +5,6 @@ Exemplo de arquivo
 
 git init feito
 git add dos arqivos anteriores feito
+git status
+
+git commit -m "primeira versão"
