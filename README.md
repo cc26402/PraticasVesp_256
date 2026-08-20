@@ -8,3 +8,6 @@ git add dos arqivos anteriores feito
 git status
 
 git commit -m "primeira versão"
+
+criando tags
+git tag -a v0.1.0 -m "Mensagem"
